@@ -4,13 +4,13 @@ I am Jack Tsai (Hoi Yuk Tsai) . I am a programmer who used to be in QA field, no
 
 ## Technologies and Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=green)
+![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-SQL-informational?style=flat&logo=Oracle&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=green)
-![](https://img.shields.io/badge/Tool-Spark-informational?style=flat&logo=Apache-Spark&logoColor=white&color=green)
-![](https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=Jira&logoColor=white&color=green)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tool-Spark-informational?style=flat&logo=Apache-Spark&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=Jira&logoColor=white&color=yellow)
 
 
 ## Github repo and project to check on
