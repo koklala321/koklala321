@@ -1,5 +1,5 @@
 ## Hello there 👋
-I am Jack Tsai (Hoi Yuk Tsai) . I am a programmer who used to be in QA field, now learning and shifting to data science field. I currently live in London, you may find me by my email hytsaiforwork@gmail.com or [LinkedIn](https://www.linkedin.com/in/hoi-yuk-tsai-04b6181a4/)
+I am Jack Tsai (Hoi Yuk Tsai) . I am a data engineer in Sky. I currently live in Reading, you may find me by my email hytsaiforwork@gmail.com or [LinkedIn](https://www.linkedin.com/in/hoi-yuk-tsai-04b6181a4/)
 
 
 ## Technologies and Tools
