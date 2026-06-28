@@ -1,5 +1,5 @@
 ## Hello there 👋
-I am Jack Tsai (Hoi Yuk Tsai) . I am a data engineer in Sky. I currently live in Reading, you may find me by my email hytsaiforwork@gmail.com or [LinkedIn](https://www.linkedin.com/in/hoi-yuk-tsai-04b6181a4/)
+I am Jack Tsai (Hoi Yuk Tsai). I am a data engineer at Sky. I currently live in Reading, you may find me by my email hytsaiforwork@gmail.com or [LinkedIn](https://www.linkedin.com/in/hoi-yuk-tsai-04b6181a4/)
 
 
 ## Technologies and Tools
@@ -13,7 +13,7 @@ I am Jack Tsai (Hoi Yuk Tsai) . I am a data engineer in Sky. I currently live in
 ![](https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=Jira&logoColor=white&color=yellow)
 
 
-## Github repo and project to check on
+## GitHub Repos and Projects to Check On
 <!--
 <a href="https://github.com/koklala321/koklala321">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=koklala321&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Jack's GitHub Stats" />
@@ -24,7 +24,7 @@ I am Jack Tsai (Hoi Yuk Tsai) . I am a data engineer in Sky. I currently live in
 </a>
 
 <a href="https://github.com/koklala321/CKD-business-case">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koklala321&repo=CKD-business-case&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koklala321&repo=CKD-business-case&theme=tokyonight&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/koklala321/YoutubeTrending">
