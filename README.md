@@ -27,10 +27,10 @@ I am Jack Tsai (Hoi Yuk Tsai). I am a data engineer at Sky. I currently live in 
   <br/>
 
   <a href="https://github.com/koklala321/CKD-business-case">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=koklala321&repo=CKD-business-case&theme=tokyonight&cache_seconds=1800" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=koklala321&repo=CKD-business-case&theme=tokyonight&cache_seconds=1800&description_lines_count=2" />
   </a>
   <a href="https://github.com/koklala321/YoutubeTrending">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=koklala321&repo=YoutubeTrending&theme=tokyonight" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=koklala321&repo=YoutubeTrending&theme=tokyonight&description_lines_count=2" />
   </a>
 </div>
 
