@@ -32,11 +32,6 @@ I am Jack Tsai (Hoi Yuk Tsai) . I am a data engineer in Sky. I currently live in
 </a>
 
 
-<a href="https://github.com/koklala321/sorting-visualizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koklala321&repo=sorting-visualizer&theme=tokyonight" />
-</a>   
-
-
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koklala321&hide=Tex,html,css&layout=compact&theme=tokyonight)](https://github.com/koklala321/)
